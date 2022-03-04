@@ -1,0 +1,61 @@
+body *{
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+header h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #1b396a;
+    color: white;
+}
+img{
+    display: inline-block;
+    height: 60px;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+}
+ #menu1{
+    background-color: #1b396a;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+}
+#menu1 li{
+    padding: 10px;
+}
+
+#menu2{
+    padding: 10px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.abajo{
+    background-color: #1b396a;
+    color: white;
+    margin-top: 30px;
+}
+.info nav{
+    display: inline-block;
+    margin-right: 30px;
+}
+.secciones section{
+    height: 300px;
+    border: 1px solid black ;
+    margin: auto;
+    margin-top: 40px;
+}
+.secciones section h2{
+    background-color: #1b396a;
+    color: white;
+    text-align: center;
+}
+.pie {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
